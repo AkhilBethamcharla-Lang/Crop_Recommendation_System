@@ -74,9 +74,8 @@ Crop_Recommendation_System/
 ├── static/
 │   └── style.css
 │
-├── screenshots/
-│   ├── homepage.png
-│   └── prediction.png
+│── homepage.png
+│── prediction.png
 │
 └── README.md
 ```
